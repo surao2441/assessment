@@ -1,0 +1,24 @@
+body {
+
+  background-color: #4b2200f6;
+  color: aliceblue;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+button {
+
+    padding: 5px 20px;
+    background-color: #a53c00;
+    color: aliceblue;
+    border-style: none;
+
+}
+
+input {
+
+    height: 20px;
+
+}
